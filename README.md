@@ -98,3 +98,12 @@ We welcome contributions! Please follow these steps:
 - [Next.js Documentation](https://nextjs.org/docs)
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 - [TailwindCSS Documentation](https://tailwindcss.com/docs)
+
+
+## Contact
+
+For inquiries or support, contact:
+- [Abaasa Albert](https://github.com/CodeWithAltech)
+
+---
+Visit the [GitHub Repository](https://github.com/CodeWithAltech/Hybrids_2.1) for more details
