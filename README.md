@@ -28,17 +28,49 @@ Hybrids API is a modern, scalable API built with [Next.js](https://nextjs.org/) 
 ## Project Structure
 ```
 Hybrids_2.1/
-├── .git/                     # Git configuration and hooks
-├── public/                   # Static assets
-├── src/                      # Source code
-│   ├── pages/                # Next.js pages
-│   ├── components/           # Reusable components
-│   ├── styles/               # CSS and Tailwind configurations
-│   ├── utils/                # Utility functions
-├── package.json              # Project dependencies and scripts
-├── next.config.js            # Next.js configuration
-├── tailwind.config.ts        # TailwindCSS configuration
-└── tsconfig.json             # TypeScript configuration
+├── README.md                             # Project documentation and instructions
+├── next.config.js                        # Next.js configuration file
+├── package.json                          # Project metadata and dependencies
+├── postcss.config.mjs                    # PostCSS configuration file
+├── tailwind.config.ts                    # Tailwind CSS configuration file
+├── tsconfig.json                         # TypeScript configuration file
+├── .eslintrc.json                        # ESLint configuration file
+├── app/                                  # Main application directory
+│   ├── globals.css                       # Global CSS styles
+│   ├── layout.tsx                        # Main layout component
+│   ├── page.tsx                          # Main page component
+│   └── components/                       # Reusable UI components
+│       ├── Header.tsx                    # Header component
+│       ├── Hero.tsx                      # Hero section component
+│       ├── Announce.tsx                  # Announcement component
+│       └── Api.tsx                       # API interaction component
+└── public/                               # Public assets directory
+   ├── manifest.json                      # Web app manifest file
+   ├── sw.js                              # Service worker script
+   ├── workbox-e43f5367.js                # Workbox service worker script
+   ├── android/                           # Android-specific assets
+   ├── assets/                            # General assets directory
+   │   ├── index.js                       # Entry point for assets
+   │   ├── benefits/                      # Assets for benefits section
+   │   ├── collaboration/                 # Assets for collaboration section
+   │   ├── hero/                          # Assets for hero section
+   │   ├── notification/                  # Assets for notification section
+   │   ├── pricing/                       # Assets for pricing section
+   │   ├── roadmap/                       # Assets for roadmap section
+   │   ├── services/                      # Assets for services section
+   │   ├── socials/                       # Assets for social media section
+   │   └── svg/                           # SVG assets directory
+   │       ├── Arrow.jsx                  # Arrow SVG component
+   │       ├── Brackets.jsx               # Brackets SVG component
+   │       ├── ButtonGradient.jsx         # Button gradient SVG component
+   │       ├── ButtonSvg.jsx              # Button SVG component
+   │       ├── ChatBubbleWing.jsx         # Chat bubble wing SVG component
+   │       ├── ClipPath.jsx               # Clip path SVG component
+   │       ├── MenuSvg.jsx                # Menu SVG component
+   │       ├── PlusSvg.jsx                # Plus SVG component
+   │       └── SectionSvg.jsx             # Section SVG component
+   ├── ios/                               # iOS-specific assets
+   └── windows11/                         # Windows 11-specific assets
 ```
 
 ## Installation
@@ -98,3 +130,12 @@ We welcome contributions! Please follow these steps:
 - [Next.js Documentation](https://nextjs.org/docs)
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 - [TailwindCSS Documentation](https://tailwindcss.com/docs)
+
+
+## Contact
+
+For inquiries or support, contact:
+- [Abaasa Albert](https://github.com/CodeWithAltech)
+
+---
+Visit the [GitHub Repository](https://github.com/CodeWithAltech/Hybrids_2.1) for more details
