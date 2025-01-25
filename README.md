@@ -27,7 +27,7 @@ Hybrids API is a modern, scalable API built with [Next.js](https://nextjs.org/) 
 
 ## Project Structure
 ```
-mugabibenjamin-hybrids_2.1/
+Hybrids_2.1/
 ├── README.md                             # Project documentation and instructions
 ├── next.config.js                        # Next.js configuration file
 ├── package.json                          # Project metadata and dependencies
