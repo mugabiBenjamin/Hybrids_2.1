@@ -5,19 +5,22 @@
 ![Node.js](https://img.shields.io/badge/node.js-%3E%3D16.0.0-brightgreen)
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
-## Introduction
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Project Structure](#project-structure)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [Contributing](#contributing)
+7. [Acknowledgments](#acknowledgments)
+8. [Contact](#contact)
+
+## 🌟Introduction
+
 Hybrids API is a modern, scalable API built with [Next.js](https://nextjs.org/) and [TypeScript](https://www.typescriptlang.org/). Designed to handle complex hybrid environments, it integrates seamlessly with TailwindCSS and ESLint for enhanced development workflows.
 
-## Features
+## 🚀Features
+
 - **Next.js**: Server-side rendering and API routes.
 - **TypeScript**: Type safety for better code maintainability.
 - **TailwindCSS**: Utility-first CSS framework.
@@ -25,7 +28,8 @@ Hybrids API is a modern, scalable API built with [Next.js](https://nextjs.org/) 
 - **PostCSS**: Modern CSS transformations.
 - CI/CD ready with Git support.
 
-## Project Structure
+## 🗂Project Structure
+
 ```
 Hybrids_2.1/
 ├── README.md                             # Project documentation and instructions
@@ -73,13 +77,15 @@ Hybrids_2.1/
    └── windows11/                         # Windows 11-specific assets
 ```
 
-## Installation
+## 🔧Installation
 
-### Prerequisites
-- Node.js >= 16.0.0
-- npm or yarn
+### 📋Prerequisites
 
-### Steps
+  - Node.js >= 16.0.0
+  - npm or yarn
+
+### 📝Steps
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/CodeWithAltech/Hybrids_2.1.git
@@ -93,7 +99,8 @@ Hybrids_2.1/
    npm install
    ```
 
-## Usage
+## 📦Usage
+
 Start the development server:
 ```bash
 npm run dev
@@ -109,9 +116,12 @@ Run tests:
 npm test
 ```
 
-## Contributing
+## 🤝Contributing
+
 We welcome contributions! Please follow these steps:
+
 1. Fork the repository.
+
 2. Create a feature branch:
    ```bash
    git checkout -b feature/your-feature-name
@@ -126,13 +136,13 @@ We welcome contributions! Please follow these steps:
    ```
 5. Open a pull request.
 
-## Acknowledgments
+## 🙏Acknowledgments
+
 - [Next.js Documentation](https://nextjs.org/docs)
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 - [TailwindCSS Documentation](https://tailwindcss.com/docs)
 
-
-## Contact
+## 📞Contact
 
 For inquiries or support, contact:
 - [Abaasa Albert](https://github.com/CodeWithAltech)
